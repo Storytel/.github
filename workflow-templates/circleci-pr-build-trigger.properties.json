@@ -1,8 +1,5 @@
 {
     "name": "Storytel PR CircleCI build trigger",
     "description": "Workflow for triggering builds on CircleCI when a PR is opened or reopened",
-    "iconName": "storytel",
-    "categories": [
-        "CircleCI"
-    ]
+    "iconName": "storytel"
 }
